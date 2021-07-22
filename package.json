@@ -1,0 +1,17 @@
+{
+    "name": "node-farm",
+    "version": "1.0.0",
+    "description": "It is a project in Node JS course",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "slugify": "^1.6.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.12"
+    }
+}
